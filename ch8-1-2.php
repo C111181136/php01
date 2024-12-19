@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8" />
-<title>ch8-1-2.php</title>
-</head>
-<body>
+
 <?php 
 $ip = $_SERVER["REMOTE_ADDR"]; // 取得指定伺服器變數
 $path = $_SERVER["SCRIPT_NAME"];
