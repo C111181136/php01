@@ -6,7 +6,7 @@
 <?php 
 // 函數顯示標題文字
 function pageHeader() {
-   print "<h3>PHP與MySQL網頁設計</h3>";
+   print "<h3>PHP與MySQL網頁設計1</h3>";
    echo "<hr/>";
 } 
 // 函數顯示註腳文字
